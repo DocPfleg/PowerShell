@@ -1,0 +1,11 @@
+02/24/2022
+
+- This will be the third of five projects taken from Josh Madakor's YouTube channel: https://www.youtube.com/watch?v=P9wz0Sted_I
+  - This is the video of the actual tutorial that I am following: https://www.youtube.com/watch?v=WJODYmk4ys8
+  - I will be providing commentary and walk-thru as proof of completing this project.
+  
+- It will provide me with experience in the following:
+  - Creating a custom/proof of concept File Integrity Monitor (FIM) that allows for:
+    - Creating an integrity baseline of target files/folders using the SHA-512 hashing algorithm.
+    - Continuously making comparison of actual files vs. baseline, raising alerts if any deviations occur.
+    - Send alert x-alert via y-means to allow further investigation of potential compromise.
